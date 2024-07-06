@@ -17,9 +17,8 @@ for portfolio-http://localhost:3000/api/portfolio for portfolio history -> http:
 
 Tech Stack=> NodeJs , ExpresJs, Typescript,Mongodb
 Environment Details =># MongoDB URI
-MONGODB_URI=mongodb+srv://srishty46730:<password>@cluster0.q300pag.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-id - srishty46730
-pass - AItspjvJHUq088rh
+MONGODB_URI=mongodb+srv://srishty46730:<AItspjvJHUq088rh>@cluster0.q300pag.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
 # JWT Secret
 JWT_SECRET=your_jwt_secret_key
 
