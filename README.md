@@ -41,8 +41,7 @@ Maintain separate configurations for development and production environments.
 4. Project Structure
 The project can be structured as follows:
 
-arduino
-Copy code
+
 portfolio-management/
 │
 ├── src/
